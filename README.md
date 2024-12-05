@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonInMaine
 - 👀 I’m interested in ... projects with Arduino, C++ and Python 
-- 🌱 I’m currently learning ...Arduino and PaspberryPI 
+- 🌱 I’m currently learning ...Arduino and RaspberryPI 
 - 💞️ I’m looking to collaborate on ...projects 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
